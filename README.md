@@ -7,4 +7,4 @@
 - [corp](https://ccfs.sos.wa.gov/#/Dashboard), [license](https://secure.dor.wa.gov/), [copyright](https://eco.copyright.gov/eService_enu/start.swe?SWECmd=Login&SWEPL=1&SRN=&SWETS=1584673446735), [patent/trademark](https://www.uspto.gov/) for [payment](https://developer.authorize.net/api/reference/index.html#payment-transactions-debit-a-bank-account)/[escrow](https://my.escrow.com/myescrow/MyTransactions.asp?hid=mt) or [ads](https://www.google.com/adsensenew/u/0/pub-1429497248082414/home?hl=en-US&signup-no-redirect=true)
 
 For news updates, see [CSPAN](https://www.c-span.org/) - [BBC](http://feeds.bbci.co.uk/news/rss.xml) - [Gutenberg](http://www.gutenberg.org/wiki/Main_Page) - [Wikipedia](http://www.wikipedia.org/wiki/Special:Random)
-      
+
