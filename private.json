@@ -1,9 +1,0 @@
-{
-    "email": "",
-    "password": "",
-    "ip": [],
-    "status": ["initial", "confirmed", "reset"],
-    "level": ["basic", "premium"],
-    "data": "",
-    "key": ""
-}
